@@ -1,0 +1,2 @@
+// lista
+const convidados = ["javascript"];
